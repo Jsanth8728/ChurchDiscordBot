@@ -7,7 +7,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 import pytz
 import os
-import ChurchDiscordBot.webserver as webserver
+import ChurchBot.webserver as webserver
 
 # Add your previous Google Calendar API integration here (as explained above)
 from google.oauth2.credentials import Credentials
