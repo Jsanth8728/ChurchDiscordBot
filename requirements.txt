@@ -1,2 +1,2 @@
-discord~=2.40
+discord~=2.4.0
 Flask~=3.0.3
